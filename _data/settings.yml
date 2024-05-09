@@ -1,0 +1,26 @@
+menu:
+- {name: 'research', url: '/research'}
+- {name: 'publications', url: '/publications'}
+- {name: 'teaching', url: '/courses'}
+- {name: 'values', url: '/values'}
+- {name: 'cv', url: '/cv'}
+- {name: 'contact', url: '/contact'}
+
+people:
+- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+courses:
+- {name: 'BIOL 1010: Biological Diversity & Interaction', url: 'biol1010'}
+- {name: 'BIOL 3550: Data Analysis in Ecology', url: 'biol3550'}
+- {name: 'Other course materials', url: 'misc-teaching'}
+
+social:
+- {icon: 'github', link: 'https://github.com/ljnewediuk'}
+- {icon: 'twitter', link: 'https://twitter.com/newedi_elk'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Levi-Newediuk-2'}
+- {icon: 'google', link: 'https://scholar.google.ca/citations?user=-K4SdywAAAAJ&hl=en'}
+
+contacts:
+- {name: 'Dr. Levi Newediuk', title: 'Postdoctoral Researcher', department: 'Department of Biological Sciences', institution: 'University of Manitoba', email: 'levi.newediuk [at] umanitoba.ca'}

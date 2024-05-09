@@ -1,0 +1,15 @@
+<div class="row g-5 mb-5">
+  <div>
+    {% if page.title == "Home" %}
+    <font color = '#33414B'><h3 class="fw-bold border-bottom pb-3 mb-5">Featured publications</h3></font>
+      {% for item in site.data.publications.featured %}
+        <p>{{ item.name }}</p>
+      {% endfor %}
+    {% else %}
+        <font color = '#33414B'><h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3></font>
+      {% for item in site.data.publications.index %}
+        <p>{{ item.name }} <a href="{{ item.url }}">pdf</a></p>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
