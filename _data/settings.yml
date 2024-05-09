@@ -12,9 +12,9 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'BIOL 1010: Biological Diversity & Interaction', url: '/courses/biol1010.md'}
-- {name: 'BIOL 3550: Data Analysis in Ecology', url: '/courses/biol3550.md'}
-- {name: 'Other course materials', url: '/courses/misc-teaching.md'}
+- {name: 'BIOL 1010: Biological Diversity & Interaction', url: '/courses/biol1010.html'}
+- {name: 'BIOL 3550: Data Analysis in Ecology', url: '/courses/biol3550.html'}
+- {name: 'Other course materials', url: '/courses/misc-teaching.html'}
 
 social:
 - {icon: 'github', link: 'https://github.com/ljnewediuk'}
