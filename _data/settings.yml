@@ -1,10 +1,10 @@
 menu:
-- {name: 'research', url: '/research'}
-- {name: 'publications', url: '/publications'}
-- {name: 'teaching', url: '/courses'}
-- {name: 'values', url: '/values'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'research', url: '/research.html'}
+- {name: 'publications', url: '/publications.html'}
+- {name: 'teaching', url: '/courses.html'}
+- {name: 'values', url: '/values.html'}
+- {name: 'cv', url: '/cv.html'}
+- {name: 'contact', url: '/contact.html'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
